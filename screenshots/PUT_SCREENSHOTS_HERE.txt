@@ -1,0 +1,6 @@
+Required screenshots:
+1. Laravel backend running
+2. Quasar frontend running
+3. /api/hello result in browser
+4. Frontend showing Laravel message
+5. VS Code showing backend and frontend folders
